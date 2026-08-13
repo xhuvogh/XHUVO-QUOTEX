@@ -1,0 +1,10 @@
+{
+  "name": "Xhuvo Quotex Official",
+  "description": "The official XHUVO QX TradingView indicator store engineered for Quotex, Pocket Option & 1M Real Market Binary Options.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
